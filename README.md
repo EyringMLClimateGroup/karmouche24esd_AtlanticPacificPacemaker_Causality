@@ -56,21 +56,21 @@ After installing Tigramite in the Conda environment, add the environment to Jupy
 
 # Data
 
-## Multi-Ensemble Mean (MEM) Calculation
+### Multi-Ensemble Mean (MEM) Calculation
 
 To isolate internal variability from the pacemaker simulations, a multi-ensemble mean (MEM) was calculated for each variable using three CMIP6 historical large ensemble means:
 - CESM2 (11 members)
 - MIROC6 (50 members)
 - UKESM1-0-LL (16 members).
 
-## Observational and Reanalyses Datasets
+### Observational and Reanalyses Datasets
 
 To calculate indices for the observed historical record, the following datasets were used at different sections of the study to extract sea surface temperature (SST), sea level pressure (PSL), eastward wind (U), wind<sub>Stress</sub>, and the depth of 20°C isotherm.
 - Hadley Centre Sea Ice and Sea Surface Temperature [**(HadISST)**](http://dx.doi.org/10.1029/2002JD002670) (SST)
 - National Center for Environmental Prediction-National Center for Atmospheric Research reanalysis 1  [**(NCEP-NCAR-R1)**](http://dx.doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2) (PSL, U)
 - Ocean Reanalysis System version 5 [**(ORAS5)**](https://cds.climate.copernicus.eu/doi/10.24381/cds.67e8eeb7) (wind<sub>Stress</sub> , depth of 20°C isotherm)
 
-## Pacemaker Simulations
+### Pacemaker Simulations
 
 - **CESM2 Pacific Pacemaker Ensemble Dataset:**  
   The CESM2 Pacific pacemaker ensemble dataset can be found [here](https://www.earthsystemgrid.org/dataset/ucar.cgd.cesm2.pacific.pacemaker.html) (last access: 29 April 2024). Variables: surface temperature **(TS), PSL and U**
@@ -81,7 +81,7 @@ To calculate indices for the observed historical record, the following datasets 
 - **Additional Information and Documentation:**  
   The complete description and documentation of the Pacific and Atlantic pacemaker datasets are available on the [Climate Variability and Change Working Group's (CVCWG) webpage](https://www.cesm.ucar.edu/working-groups/climate/simulations/) (last access: 29 April 2024).
 
-## Pre-Industrial Control Run
+### Pre-Industrial Control Run
 
 A 250-year segment from the [CESM2 pre-industrial control run](http://dx.doi.org/10.1029/2019MS001916) was used. Variables: **TS, PSL and U**
 
