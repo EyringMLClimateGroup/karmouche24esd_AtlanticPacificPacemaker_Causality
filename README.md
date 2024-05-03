@@ -65,10 +65,10 @@ To isolate internal variability from the pacemaker simulations, a multi-ensemble
 
 ## Observational and Reanalyses Datasets
 
-To calculate indices for the observed historical record, the following datasets were used at different sections of the study to extract sea surface temperature (SST), sea level pressure (PSL), Wind<sub>Stress</sub>, Depth of 20°C Isotherm, Eastward wind (U).
-- Hadley Centre Sea Ice and Sea Surface Temperature [**(HadISST)**](http://dx.doi.org/10.1029/2002JD002670) (sea surface temperature)
-- National Center for Environmental Prediction-National Center for Atmospheric Research reanalysis 1  [**(NCEP-NCAR-R1)**](http://dx.doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2) (sea level pressure)
-- Ocean Reanalysis System version 5 [**(ORAS5)**](https://cds.climate.copernicus.eu/doi/10.24381/cds.67e8eeb7) (Wind<sub>Stress</sub>, Depth of 20°C Isotherm)
+To calculate indices for the observed historical record, the following datasets were used at different sections of the study to extract sea surface temperature (SST), sea level pressure (PSL), eastward wind (U), wind<sub>Stress</sub>, and the depth of 20°C isotherm.
+- Hadley Centre Sea Ice and Sea Surface Temperature [**(HadISST)**](http://dx.doi.org/10.1029/2002JD002670) (SST)
+- National Center for Environmental Prediction-National Center for Atmospheric Research reanalysis 1  [**(NCEP-NCAR-R1)**](http://dx.doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2) (PSL, U)
+- Ocean Reanalysis System version 5 [**(ORAS5)**](https://cds.climate.copernicus.eu/doi/10.24381/cds.67e8eeb7) (wind<sub>Stress</sub> , depth of 20°C isotherm)
 
 ## Pacemaker Simulations
 
