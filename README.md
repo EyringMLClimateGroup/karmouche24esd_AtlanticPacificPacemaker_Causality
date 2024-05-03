@@ -58,6 +58,8 @@ To isolate internal variability from the pacemaker simulations, a multi-ensemble
 - MIROC6 (50 members)
 - UKESM1-0-LL (16 members).
 
+For a sample recipe to produce CMIP6 MEM using ESMValTool, please see [example_recipe_esmvaltool.yml](../main/example_recipe_esmvaltool.yml).
+
 ### Observational and Reanalyses Datasets
 
 To calculate indices for the observed historical record, the following datasets were used at different sections of the study to extract sea surface temperature (SST), sea level pressure (PSL), eastward wind (U), wind<sub>Stress</sub>, and the depth of 20°C isotherm.
