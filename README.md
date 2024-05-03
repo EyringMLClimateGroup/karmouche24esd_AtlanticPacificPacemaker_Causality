@@ -104,7 +104,8 @@ To refer to figures from the paper, please see [overview_figures](../main/overvi
 
 # Miscellaneous
 - **Earth System Model Evaluation Tool (ESMValTool):**  
-  The [ESMValTool](http://dx.doi.org/10.5194/gmd-13-1179-2020) was used for preprocessing and calculating the CMIP6 MEM and and for applying land/sea mask on TS fields.
+  The [ESMValTool](http://dx.doi.org/10.5194/gmd-13-1179-2020) was used for preprocessing and calculating the CMIP6 MEM and and for applying land mask on TS fields. For a sample recipe to produce the CMIP6 MEM using ESMValTool preprocessor, please see [example_recipe_esmvaltool.yml](../main/example_recipe_esmvaltool.yml).
+
 
 - **Multidata-PCMCI Functionality:**  
   Details on the Multidata-PCMCI functionality can be found on Tigramite's [GitHub repository](https://github.com/jakobrunge/tigramite/blob/master/tutorials/dataset_challenges/tigramite_tutorial_multiple_datasets.ipynb) (last access: 29 April 2024).
