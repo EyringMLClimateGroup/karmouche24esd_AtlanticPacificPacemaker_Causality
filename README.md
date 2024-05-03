@@ -4,12 +4,7 @@
 - **Title:** Changing effects of external forcing on Atlantic-Pacific interactions
 # Authors and Affiliations
 
-- **Soufiane Karmouche**<sup>1,2</sup>
-- **Evgenia Galytska**<sup>1,2</sup>
-- **Gerald A. Meehl**<sup>3</sup>
-- **Jakob Runge**<sup>4,5</sup>
-- **Katja Weigel**<sup>1,2</sup>
-- **Veronika Eyring**<sup>2,1</sup>
+- **Soufiane Karmouche**<sup>1,2</sup>, **Evgenia Galytska**<sup>1,2</sup>, **Gerald A. Meehl**<sup>3</sup>, **Jakob Runge**<sup>4,5</sup>, **Katja Weigel**<sup>1,2</sup>, **Veronika Eyring**<sup>2,1</sup>
 
 <sup>1</sup> University of Bremen, Institute of Environmental Physics (IUP), Bremen, Germany  
 <sup>2</sup> Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Institut für Physik der Atmosphäre, Oberpfaffenhofen, Germany  
