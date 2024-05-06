@@ -1,0 +1,56 @@
+documentation:
+  title: Multi-ensemble mean (MEM) for the Atlantic-Pacific interaction
+
+  description: |
+    Recipe for executing the ESMValTool preproccesor to calculate MEM
+
+  authors:
+    - soufianekar
+
+  projects:
+    - karmouche24esd
+
+preprocessors:
+  multimodel_preprocessor:
+    #extract_levels: #(only for ua)
+    #  levels: [100000., 92500.]
+    #  scheme: linear
+    regrid:
+      target_grid: 1x1
+      scheme: linear
+    multi_model_statistics:
+      span: overlap
+      statistics: [mean]
+    ensemble_statistics:
+      statistics: [mean]
+datasets:
+  
+  - {dataset: UKESM1-0-LL, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(1:4)i1p1f2", grid: gn, start_year: 1900, end_year: 2014}
+  - {dataset: UKESM1-0-LL, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(5:7)i1p1f3", grid: gn, start_year: 1900, end_year: 2014}
+  - {dataset: UKESM1-0-LL, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(8:12)i1p1f2", grid: gn, start_year: 1900, end_year: 2014}
+  - {dataset: UKESM1-0-LL, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(16:19)i1p1f2", grid: gn, start_year: 1900, end_year: 2014}
+  - {dataset: MIROC6, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(1:50)i1p1f1", grid: gn, start_year: 1900, end_year: 2014}
+  - {dataset: CESM2, project: CMIP6, mip: Amon, exp: historical,
+     ensemble: "r(1:11)i1p1f1", grid: gn, start_year: 1900, end_year: 2014}
+
+diagnostics:
+  dummy_diagnostic_1:
+    variables:
+      #ts:
+      # short_name: ts
+      # mip: Amon
+      # preprocessor: multimodel_preprocessor
+      #ua:
+      #  short_name: ua
+      #  mip: Amon
+      #  preprocessor: multimodel_preprocessor
+      psl:
+        short_name: psl
+        mip: Amon
+        preprocessor: multimodel_preprocessor
+    scripts: null

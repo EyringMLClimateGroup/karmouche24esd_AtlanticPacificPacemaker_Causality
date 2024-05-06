@@ -1,0 +1,19 @@
+name: causal_esd24
+channels:
+  - defaults
+  - conda-forge  # Additional channel for cartopy and eofs
+dependencies:
+  - python=3.10
+  - numpy=1.21.6
+  - scipy=1.11.4
+  - xarray=2023.1.0
+  - numba=0.56.4
+  - matplotlib=3.5.1
+  - cartopy=0.20.2
+  - seaborn=0.11.2
+  - networkx=2.7.1
+  - eofs=1.4.0
+  - ipykernel=6.9.1
+  - joblib=1.1.0
+  - netcdf4=1.5.8
+
