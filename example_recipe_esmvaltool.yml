@@ -5,7 +5,7 @@ documentation:
     Recipe for executing the ESMValTool preproccesor to calculate MEM
 
   authors:
-    - soufianekar
+    - soufiane_kar
 
   projects:
     - karmouche24esd
