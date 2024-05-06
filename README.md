@@ -90,7 +90,7 @@ It is the user's responsibility to ensure access to the necessary datasets and s
 
 **We recommend running the notebooks in the order below:**   
 
-1. [Proof_of_concept.ipynb](../main/Proof_of_concept.ipynb)
+1. [section3_proof_of_concept.ipynb](../main/section3_proof_of_concept.ipynb)
     The code here is detailed. Used to reproduce the panels in **Fig 2** and respective supplementary material
 2. [section4_obs_reanalysis.ipynb](../main/section4_obs_reanalysis.ipynb)
     In this notebook and the upcoming ones, the code is wrapped in seperate class functions to perform the analysis routines. Used to reproduce the panels in **Figs 3 and 4** and respective supplementary material
