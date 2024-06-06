@@ -74,7 +74,7 @@ To calculate indices for the observed historical record, the following datasets 
 
 A 250-year segment from the [CESM2 pre-industrial control run](http://dx.doi.org/10.1029/2019MS001916) was used. Variables: **TS, PSL and U**
 
-For more detailed information and documentation on these datasets and simulations, refer to the original paper: [EGUsphere Preprint](https://doi.org/10.5194/egusphere-2023-1861).
+For more detailed information and documentation on these datasets and simulations, please refer to the published version of the paper.
 
 It is the user's responsibility to ensure access to the necessary datasets and simulations referenced in this study.
 
