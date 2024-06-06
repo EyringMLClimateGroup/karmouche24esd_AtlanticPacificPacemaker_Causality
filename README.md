@@ -1,18 +1,11 @@
+# **Changing effects of external forcing on Atlantic-Pacific interactions**
+
 # Project Overview
-02.05.2024 @Soufiane Karmouche: This repository contains code associated with the study titled "Changing effects of external forcing on Atlantic-Pacific interactions"
+ This repository contains the code used for the analyses and results associated with the paper:
+> Karmouche, S., Galytska, E., Meehl, G. A., Runge, J., Weigel, K., and Eyring, V.: Changing effects of external forcing on Atlantic-Pacific interactions, Earth Syst. Dynam. [Accepted], 2024.
 
-- **Title:** Changing effects of external forcing on Atlantic-Pacific interactions
-# Authors and Affiliations
-
-#### **Soufiane Karmouche**<sup>1,2</sup>, **Evgenia Galytska**<sup>1,2</sup>, **Gerald A. Meehl**<sup>3</sup>, **Jakob Runge**<sup>4,5</sup>, **Katja Weigel**<sup>1,2</sup>, **Veronika Eyring**<sup>2,1</sup>
-
-<sup>1</sup> University of Bremen, Institute of Environmental Physics (IUP), Bremen, Germany  
-<sup>2</sup> Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Institut für Physik der Atmosphäre, Oberpfaffenhofen, Germany  
-<sup>3</sup> Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), Boulder, CO, USA  
-<sup>4</sup> Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Institut für Datenwissenschaften, Jena, Germany  
-<sup>5</sup> Fachgebiet Klimainformatik, Technische Universität Berlin, Berlin, Germany
-
-- **Year:** 2024
+**Author:** Soufiane Karmouche, sou_kar@uni-bremen.de \
+**Year:** 2024
 
 # Requirements
 
@@ -99,9 +92,6 @@ It is the user's responsibility to ensure access to the necessary datasets and s
 
 # Results
 Results from running the jupyter notebooks will be saved under the `FIGS/` directory. 
-
-To refer to figures from the paper, please see [overview_figures](../main/overview_figures) to locate the notebook needed to produce a specific plot. 
-
 
 # Miscellaneous
 - **Earth System Model Evaluation Tool (ESMValTool):**  
