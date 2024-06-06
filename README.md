@@ -83,11 +83,15 @@ It is the user's responsibility to ensure access to the necessary datasets and s
 **We recommend running the notebooks in the order below:**   
 
 1. [section3_proof_of_concept.ipynb](../main/section3_proof_of_concept.ipynb)
-    The code here is detailed. Used to reproduce the panels in **Fig 2** and respective supplementary material
+    The code here is detailed. This notebook is used to reproduce the panels in **Fig 2** and respective supplementary material
+
+In the following notebooks, the code is wrapped in seperate class functions to perform different preprocessing, analysis and plotting routines.
+See [data_visualization.py](../main/data_visualization.py) and [run_causal_analysis.py](../main/run_causal_analysis.py) (PS: the classes are only used as function holders)
+
 2. [section4_obs_reanalysis.ipynb](../main/section4_obs_reanalysis.ipynb)
-    In this notebook and the upcoming ones, the code is wrapped in seperate class functions to perform the analysis routines. Used to reproduce the panels in **Figs 3 and 4** and respective supplementary material
-3. [section4_PAC_pacemaker_ensemble.ipynb](../main/section4_PAC_pacemaker_ensemble.ipynb) **(Fig 5)** and/or [section4_ATL_pacemaker_ensemble.ipynb](../main/section4_ATL_pacemaker_ensemble.ipynb) **(Fig 6)**
-4. [section4_PiControl.ipynb](../main/section4_PiControl.ipynb). Used to reproduce the panels in **Fig 7** and respective supplementary material.
+    This notebook is used to reproduce the panels in **Figs 1, 3, and 4** and respective supplementary material
+3. [section4_PAC_pacemaker_ensemble.ipynb](../main/section4_PAC_pacemaker_ensemble.ipynb)(to reproduce  **Fig 5**) and/or [section4_ATL_pacemaker_ensemble.ipynb](../main/section4_ATL_pacemaker_ensemble.ipynb) (to reproduce **Fig 6**)
+4. [section4_PiControl.ipynb](../main/section4_PiControl.ipynb). This notebook is used to reproduce the panels in **Fig 7** and respective supplementary material.
 
 
 # Results
