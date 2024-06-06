@@ -12,7 +12,6 @@
 <sup>4</sup> Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Institut für Datenwissenschaften, Jena, Germany  
 <sup>5</sup> Fachgebiet Klimainformatik, Technische Universität Berlin, Berlin, Germany
 
-- **Preprint:** [EGUsphere Preprint](https://doi.org/10.5194/egusphere-2023-1861)
 - **Year:** 2024
 
 # Requirements
