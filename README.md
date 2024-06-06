@@ -118,3 +118,6 @@ Results from running the jupyter notebooks will be saved under the `FIGS/` direc
 
 > Righi, M., et al. (2020). Earth System Model Evaluation Tool (ESMValTool) v2.0 – technical overview. [Geoscientific Model Development](http://dx.doi.org/10.5194/gmd-13-1179-2020).
 
+# License
+
+[Apache License 2.0](../main/license.txt)
