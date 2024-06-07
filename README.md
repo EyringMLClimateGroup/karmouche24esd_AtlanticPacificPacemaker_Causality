@@ -9,8 +9,8 @@
 **Year:** 2024 
 
 **DOI:** 
-> Current release : [![DOI](https://zenodo.org/badge/791740645.svg)](https://zenodo.org/badge/latestdoi/791740645) \
-> Latest release  : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11518925.svg)](https://doi.org/10.5281/zenodo.11518925)  
+
+> Latest: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11518925.svg)](https://doi.org/10.5281/zenodo.11518925)  
          
 # Requirements
 
