@@ -2,13 +2,16 @@
 
 # Project Overview
  This repository contains the code used for the analyses and results associated with the paper:
-> Karmouche, S., Galytska, E., Meehl, G. A., Runge, J., Weigel, K., and Eyring, V.: Changing effects of external forcing on Atlantic-Pacific interactions, Earth Syst. Dynam. [Accepted], 2024.
+> Karmouche, S., Galytska, E., Meehl, G. A., Runge, J., Weigel, K., and Eyring, V.: Changing effects of external forcing on Atlantic-Pacific interactions, Earth Syst. Dynam., 2024.
 
-**Author:** Soufiane Karmouche, sou_kar@uni-bremen.de \
+**Author:** Soufiane Karmouche, sou_kar@uni-bremen.de 
+
 **Year:** 2024 
 
-**DOI:** [![DOI](https://zenodo.org/badge/791740645.svg)](https://zenodo.org/badge/latestdoi/791740645)
-
+**DOI:** 
+> Current release : [![DOI](https://zenodo.org/badge/791740645.svg)](https://zenodo.org/badge/latestdoi/791740645) \
+> Latest release  : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11518925.svg)](https://doi.org/10.5281/zenodo.11518925)  
+         
 # Requirements
 
 The code in this repository requires specific Python packages. You can set up the required environment using Conda. Here are the steps to create the environment:
