@@ -5,7 +5,9 @@
 > Karmouche, S., Galytska, E., Meehl, G. A., Runge, J., Weigel, K., and Eyring, V.: Changing effects of external forcing on Atlantic-Pacific interactions, Earth Syst. Dynam. [Accepted], 2024.
 
 **Author:** Soufiane Karmouche, sou_kar@uni-bremen.de \
-**Year:** 2024
+**Year:** 2024 
+
+**DOI:** [![DOI](https://zenodo.org/badge/791740645.svg)](https://zenodo.org/badge/latestdoi/791740645)
 
 # Requirements
 
